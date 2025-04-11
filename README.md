@@ -37,7 +37,7 @@ Creating the Instance in S3:  <br/>
 <img src="https://i.imgur.com/gcbzibR.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
-
+Voila, the instance was created sucessfully  <br/>
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
