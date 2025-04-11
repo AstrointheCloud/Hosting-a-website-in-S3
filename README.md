@@ -6,20 +6,20 @@ This project involves deploying a static website to the AWS Free Tier by utilizi
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2> Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>AWS Free Tier Account</b> 
+- <b>Website files</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Step by Step walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/nQtR0VW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launching the utility: <br/>
+<img src="https://i.imgur.com/2EAw2hq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
