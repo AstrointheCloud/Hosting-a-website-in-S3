@@ -42,42 +42,56 @@ Voila, the instance was created successfully  <br/>
 <br />
 <br />
 Picking up the Website Files and Adding them to the Instance in S3: <br/>
-<img src="https://i.imgur.com/PSbHhiO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PSbHhiO.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Uploading the Website Files to the Instance in S3: <br/>
-<img src="https://i.imgur.com/I9uwQAu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I9uwQAu.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Uploaded the website files in S3: <br/>
-<img src="https://i.imgur.com/jYQdnIp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jYQdnIp.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Configuring the website hosting:  <br/>
-<img src="https://i.imgur.com/LuYTEyJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LuYTEyJ.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Opening the bucket astrointhecloud2:  <br/>
-<img src="https://i.imgur.com/E3XAqHs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E3XAqHs.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
-<img src="https://i.imgur.com/81gG3t4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/81gG3t4.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Editing the Static Website Hosting:  <br/>
-<img src="https://i.imgur.com/vYuMf1H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vYuMf1H.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Editing the configuration of the Static Website Hosting:  <br/>
-<img src="https://i.imgur.com/aIJ2IyU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aIJ2IyU.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Error 403 Forbidden because it doesn't have the permissions:  <br/>
-<img src="https://i.imgur.com/gxiYo8O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gxiYo8O.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+Making public the website using ACL:  <br/>
+<img src="https://i.imgur.com/vFj8xN2.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+Editing Public Access:  <br/>
+<img src="https://i.imgur.com/Zw7iNdJ.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+Successfully edited Public Access:  <br/>
+<img src="https://i.imgur.com/0RdBFs6.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="S3 Static Website"/>
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="S3 Static Website"/>
 </p>
 
 <!--
