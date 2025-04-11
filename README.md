@@ -15,8 +15,13 @@ This project is about setting up a static website on Amazon Web Services (AWS) u
 <h2>Step by Step Walkthrough:</h2>
 
 <p align="center">
-Launching the AWS Free Tier Account and opening S3 bucket <br/>
+Launching the AWS Free Tier Account and opening an S3 bucket <br/>
 <img src="https://i.imgur.com/fEux6NT.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+Choosing the Region for the S3 Instance:  <br/>
+ 
+<img src="https://i.imgur.com/fcQHRFY.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Creating the Instance in S3:  <br/>
