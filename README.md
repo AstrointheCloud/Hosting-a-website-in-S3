@@ -41,8 +41,16 @@ Voila, the instance was created successfully  <br/>
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Picking up the Website Files and Adding them to Instance in S3: <br/>
+<img src="https://i.imgur.com/PSbHhiO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Uploading the Website Files to the Instance in S3: <br/>
+<img src="https://i.imgur.com/I9uwQAu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Uploaded the website files in S3: <br/>
+<img src="https://i.imgur.com/jYQdnIp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
