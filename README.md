@@ -16,10 +16,10 @@ This project is about setting up a static website on Amazon Web Services (AWS) u
 
 <p align="center">
 Launching the AWS Free Tier Account and opening S3 bucket <br/>
-<img src="https://i.imgur.com/2EAw2hq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4wxqbRD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Creating the Instance in S3. The name of the instance was called Astrointhecloud1:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
