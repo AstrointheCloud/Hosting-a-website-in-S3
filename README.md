@@ -2,7 +2,8 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=yknp0-ZD1UM)
 
 <h2>Description</h2>
-This project involves deploying a static website to the AWS Free Tier by utilizing Amazon S3 as the hosting bucket
+This project is about setting up a static website on Amazon Web Services (AWS) using the Free Tier. The idea is to host basic web content—like HTML files, images, and other media—using Amazon S3. S3 is a simple, scalable, and cost-effective solution, making it perfect for hosting static sites without dealing with the complexity of the servers
+
 <br />
 
 
@@ -11,14 +12,10 @@ This project involves deploying a static website to the AWS Free Tier by utilizi
 - <b>AWS Free Tier Account</b> 
 - <b>Website files</b>
 
-<h2>Environments Used</h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Step by Step walkthrough:</h2>
+<h2>Step by Step Walkthrough:</h2>
 
 <p align="center">
-Launching the utility: <br/>
+Launching the AWS Free Tier Account and opening S3 bucket <br/>
 <img src="https://i.imgur.com/2EAw2hq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
