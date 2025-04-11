@@ -19,11 +19,13 @@ Launching the AWS Free Tier Account and opening an S3 bucket <br/>
 <img src="https://i.imgur.com/fEux6NT.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
+ 
 Choosing the Region for the S3 Instance:  <br/>
  
 <img src="https://i.imgur.com/fcQHRFY.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
+
 Creating the Instance in S3:  <br/>
  
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="S3 Static Website"/>
