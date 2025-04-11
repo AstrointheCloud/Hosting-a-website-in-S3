@@ -22,7 +22,6 @@ Launching the AWS Free Tier Account and opening S3 bucket <br/>
 Creating the Instance in S3:  <br/>
  
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="S3 Static Website"/>
-<img src="" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
 Enter the number of passes: <br/>
