@@ -88,12 +88,19 @@ Successfully edited Public Access:  <br/>
 <img src="https://i.imgur.com/0RdBFs6.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
-Finally refresh the link and the website should be up and running  <br/>
+Finally, refreshing the link and the website should be up and running  <br/>
 <img src="https://i.imgur.com/WuBZbc5.png" height="80%" width="80%" alt="S3 Static Website"/>
-<h2>Comments</h2>
-This project was quite fun. I really enjoyed working on it, struggling, erasing all 10 times and trying again, and understanding the ACLs, S3, and how they are the appropriate way to ensure a static website is hosted correctly in S3. 
 
-<br />
+<h2>Comments</h2>
+This project was quite fun. I really enjoyed working on it, struggling, erasing all 10 times, and trying again, and understanding the ACLs, S3, and how they are the appropriate way to ensure a static website is hosted correctly in S3. 
+
+<h2>Learning Resources</h2>:
+
+- <b>Udemy</b>
+
+- <b>Nextwork.org</b> 
+- <b>AWS Free Tier</b> 
+
 <!--
  ```diff
 - text in red
