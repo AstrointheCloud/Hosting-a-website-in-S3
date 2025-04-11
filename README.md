@@ -41,7 +41,7 @@ Voila, the instance was created successfully  <br/>
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
-Picking up the Website Files and Adding them to Instance in S3: <br/>
+Picking up the Website Files and Adding them to the Instance in S3: <br/>
 <img src="https://i.imgur.com/PSbHhiO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -57,12 +57,14 @@ Configuring the website hosting:  <br/>
 <img src="https://i.imgur.com/LuYTEyJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Opening the bucket astrointhecloud2:  <br/>
 <img src="https://i.imgur.com/E3XAqHs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/81gG3t4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Editing the Static Website Hosting:  <br/>
 <img src="https://i.imgur.com/vYuMf1H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -87,4 +89,4 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-https://i.imgur.com/0bwHbeE.png
+
