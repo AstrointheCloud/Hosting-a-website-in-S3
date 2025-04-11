@@ -26,9 +26,22 @@ Choosing the Region for the S3 Instance:  <br/>
 <br />
 Creating the Instance in S3:  <br/>
  
+<img src="https://i.imgur.com/aorowFr.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+
+<img src="https://i.imgur.com/D123ppK.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+
+<img src="https://i.imgur.com/gcbzibR.png" height="80%" width="80%" alt="S3 Static Website"/>
+<br />
+<br />
+
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="S3 Static Website"/>
 <br />
 <br />
+
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
