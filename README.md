@@ -19,7 +19,8 @@ Launching the AWS Free Tier Account and opening S3 bucket <br/>
 <img src="https://i.imgur.com/fEux6NT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating the Instance in S3. The name of the instance was called Astrointhecloud1:  <br/>
+Creating the Instance in S3:  <br/>
+ 
 <img src="https://i.imgur.com/avhFcR5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
