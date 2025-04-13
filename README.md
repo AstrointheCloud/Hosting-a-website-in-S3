@@ -1,4 +1,4 @@
-# Hosting-a-website-in-S3
+# Hosting-a-static-website-in-S3
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=yknp0-ZD1UM)
 
 <h2>Description</h2>
